@@ -1,7 +1,7 @@
 ## Gabbie Doster
 
 You can use the [editor on GitHub](https://github.com/gabbiedoster/Test1/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-![This is my cat Millie.](images/millie.JPG) This is my cat Millie.
+<img src="images/millie.JPG" alt="my cat millie" width="100"/> This is my cat Millie.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
