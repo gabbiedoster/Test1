@@ -78,6 +78,19 @@ These four images were a duo sets that I made Photoshop. The first two represent
 
 
 
+<img src="images/Photoshop H5.psd" alt="work done with photoshop" width="300"/>
+Some people may think heaven is a large blooming field of sunshine and flowers, but my idea is that heaven is free roaming above the clouds. This image was created with Adobe Photoshop.
+
+
+
+<img src="images/Photoshop V1.jpg" alt="work done with photoshop" width="300"/> <img src="images/Photoshop V2.jpg" alt="work done with photoshop" width="300"/>
+The first image was made with creative freestyling on Photoshop. The second image is a portrait with the idea of imagination within nature. 
+
+
+
+
+
+
 
 
 
