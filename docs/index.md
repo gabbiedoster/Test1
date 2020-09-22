@@ -63,6 +63,8 @@ Limited working Spanish
 
 ## PHOTOGRAPHY
 
+<img src="images/Photoshop H1.jpg" alt="work done with photoshop" width="200"/> <img src="images/Photoshop H2.jpg" alt="work done with photoshop" width="200"/> <img src="images/Photoshop H3.jpg" alt="work done with photoshop" width="200"/> <img src="images/Photoshop H4.jpg" alt="work done with photoshop" width="200"/>
+These four images were a duo sets that I made Photoshop. The first two represent the light and darkness of a person. The last two share the connection of curiosity. The glowing ball represents the sense of wonder and imagination.  
 
 
 
