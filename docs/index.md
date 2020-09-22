@@ -1,4 +1,4 @@
-### GABRIELLE DOSTER
+# GABRIELLE DOSTER
 
 Hello, welcome to my personal portfolio! 
 
@@ -11,11 +11,11 @@ My name is Gabbie Doster. I'm 20 years old, from Buffalo, NY. I'm currently a ju
 
 ## RESUME 
 
-# _CONTACT INFO_
+### _CONTACT INFO_
 grd5165@psu.edu
 (716) 449-7236
 
-# _EXPERIENCE_
+### _EXPERIENCE_
 **West Seneca West Senior High School** West Seneca, NY - Film maker/Editor
 August 2018 through Novemeber 2019
 Worked as Filmmaker and Film Editor for school's varsity football program in order to learn all aspects of film-making business. Developed, filmed, edited and produced well over 100 hours of footage for two seprate sports documentaries. Performed smooth and professional final edits using Final Cut Pro X to create videos for multimedia platforms via YouTube and Twitter. 
@@ -24,7 +24,7 @@ Worked as Filmmaker and Film Editor for school's varsity football program in ord
 December 2015 through present (not an employee while away at school)
 Works as an employee and crew trainer. Consistently has had a steady job and responsibility at this company for well over 4 to 5 years.
 
-# _EDUCATION_
+### _EDUCATION_
 **Erie Community College** Buffalo, NY
 Associates degree of Arts: Digital Communications and Multimedia
 Sepetember 2018 through May 2020
@@ -35,7 +35,7 @@ Undergraduate
 Field of Study: Digital Media, Arts, and Technology
 August 2020 through present
 
-# _SKILLS_
+### _SKILLS_
 - Final Cut Pro X
 - Adobe Premiere
 - Adobe Photoshop
@@ -51,11 +51,11 @@ August 2020 through present
 - Self-starter
 - Valid Passport
 
-# _AWARDS_
+### _AWARDS_
 In November of 2017, WBBZ-TV asked to use one of my videos on their news station.
 Featured in a three page article of the October 2018 West Seneca Sun.
 
-# _LANGUAGES_
+### _LANGUAGES_
 Native English
 Limited working Spanish
 
