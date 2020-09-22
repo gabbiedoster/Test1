@@ -85,7 +85,7 @@ Some people may think heaven is a large blooming field of sunshine and flowers, 
 
 
 
-<img src="images/Photoshop V1.jpg" alt="work done with photoshop" width="350"/> <img src="images/Photoshop V2.jpg" alt="work done with photoshop" width="350"/>
+<img src="images/Photoshop V1.jpg" alt="work done with photoshop" width="350"/> <img src="images/Photoshop V2.jpg" alt="work done with photoshop" width="380"/>
 
 The first image was made with creative freestyling on Photoshop. The second image is a portrait with the idea of imagination within nature. 
 
