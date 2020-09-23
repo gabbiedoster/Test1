@@ -93,7 +93,7 @@ The first image was made with creative freestyling on Photoshop. The second imag
 
 ## VIDEO PROJECTS
 
-<iframe src="https://www.youtube.com/embed/{{% include youtubePlayer.html id=Asgz1kc_olE %}}" 
+<iframe src="https://www.youtube.com/watch?v=Asgz1kc_olE{{ include.id }}" 
     width="560" 
     height="315"
     frameborder="0" 
