@@ -93,6 +93,7 @@ The first image was made with creative freestyling on Photoshop. The second imag
 
 ## VIDEO PROJECTS
 
+{% include youtubePlayer.html id=Asgz1kc_olE %}
 
 
 
