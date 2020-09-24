@@ -1,7 +1,8 @@
 # RESUME
 
 ### _CONTACT INFO_
-grd5165@psu.edu
+Email: grd5165@psu.edu
+
 (716) 449-7236
 
 ### _EXPERIENCE_
