@@ -14,7 +14,7 @@ My name is Gabbie Doster. I'm 20 years old, from Buffalo, NY. I'm currently a ju
 
 
 
-## RESUME 
+## [RESUME](RESUME.md) 
 
 ### _CONTACT INFO_
 grd5165@psu.edu
