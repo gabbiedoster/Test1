@@ -21,7 +21,7 @@ My name is Gabbie Doster. I'm 20 years old, from Buffalo, NY. I'm currently a ju
 
 
 
-## PHOTOGRAPHY
+## [PHOTOGRAPHY](PHOTOGRAPHY.md)
 
 <img src="images/Photoshop H1.jpg" alt="work done with photoshop" width="400"/> <img src="images/Photoshop H2.jpg" alt="work done with photoshop" width="400"/> <img src="images/Photoshop H3.jpg" alt="work done with photoshop" width="400"/> <img src="images/Photoshop H4.jpg" alt="work done with photoshop" width="400"/>
 
