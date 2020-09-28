@@ -13,3 +13,7 @@ This was also my first experience with using WordPress. WordPress had an easier 
 
 
 When reviewing both my websites I found that learning how to code was the most significant challenge for me. Now that I’m familiar with it, I feel more comfortable it. I found that WordPress was overall, easier to use. It took me less time creating my website for WordPress than it did GitHub. If I had to choose, I prefer the layout and look of my WordPress site better than my GitHub site. I struggled more using GitHub, for example, learning how to use different markdown files were difficult. Before this assignment I had no idea how to code, now I can happily say that I’ve learned something new. It was different and daunting, but anything is when you first try it. In the future, I’d like to learn how to build my sites either further. As in learning new skills and tools to advance my sites. In the end, I’m happy I’ve got this new experience under my belt. I’ve learned new ways to creatively build a website for either future projects or me.  
+
+
+Link to my other website!
+https://sites.psu.edu/gabbiedoster/
