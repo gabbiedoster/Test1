@@ -33,5 +33,11 @@ My name is Gabbie Doster. I'm 20 years old, from Buffalo, NY. I'm currently a ju
 
 
 
+## [REFLECTION ESSAY](REFLECTION ESSAY.md)
+
+
+
+
+
 
 
