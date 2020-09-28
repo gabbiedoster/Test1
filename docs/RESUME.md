@@ -8,7 +8,7 @@ Email: grd5165@psu.edu
 ### _EXPERIENCE_
 **West Seneca West Senior High School** West Seneca, NY - Film maker/Editor
 August 2018 through Novemeber 2019
-Worked as Filmmaker and Film Editor for school's varsity football program in order to learn all aspects of film-making business. Developed, filmed, edited and produced well over 100 hours of footage for two seprate sports documentaries. Performed smooth and professional final edits using Final Cut Pro X to create videos for multimedia platforms via YouTube and Twitter. 
+Worked as Filmmaker and Film Editor for school's varsity football program in order to learn all aspects of film-making business. Developed, filmed, edited and produced well over 100 hours of footage for two separate sports documentaries. Performed smooth and professional final edits using Final Cut Pro X to create videos for multimedia platforms via YouTube and Twitter. 
 
 **McDonalds** Orchard Park, NY - Employee/Crew Trainer
 December 2015 through present (not an employee while away at school)
